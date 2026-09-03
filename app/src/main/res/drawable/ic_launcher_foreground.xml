@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Wireframe StudyFlow Icon (Centered in 66dp safe area: 21 to 87) -->
+    <!-- Outer Card Frame -->
+    <path
+        android:fillColor="#2A2A2A"
+        android:strokeColor="#CCCCCC"
+        android:strokeWidth="2.5"
+        android:pathData="M27,27 h54 v54 h-54 z" />
+    
+    <!-- Header Block -->
+    <path
+        android:fillColor="#444444"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M33,33 h42 v10 h-42 z" />
+
+    <!-- Wireframe Placeholder Lines -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#AAAAAA"
+        android:strokeWidth="2"
+        android:pathData="M33,50 L75,50 M33,57 L65,57 M33,64 L70,64" />
+
+    <!-- Wireframe Checkbox / Progress Indicator -->
+    <path
+        android:fillColor="#555555"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M33,71 h8 v8 h-8 z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#AAAAAA"
+        android:strokeWidth="2"
+        android:pathData="M46,75 L75,75" />
+</vector>

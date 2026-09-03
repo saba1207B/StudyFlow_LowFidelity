@@ -1,0 +1,7 @@
+{
+  "name": "StudyFlow",
+  "description": "Low-fidelity wireframing and UX architecture system for StudyFlow student study & productivity mobile application (CodeAlpha Task 1).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
